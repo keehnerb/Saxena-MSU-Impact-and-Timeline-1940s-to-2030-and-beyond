@@ -1,0 +1,149 @@
+1) Research milestones: key breakthroughs, publications, and commercialization progress
+
+The DeepTech Lab develops technology at the precipice of the possible: work that was impossible yesterday, is barely feasible today, and may become pervasive and invisible tomorrow. The lab is committed to solving real people’s real problems using technology rather than staying confined to any one discipline, and to ensuring that solutions move beyond publication toward market readiness. As a result, the lab’s research combines technical advancement with refinement, stakeholder engagement, customer discovery, and commercialization-oriented development.
+
+Breakthrough series 1: data-efficient machine learning
+A major focus of the lab is data-efficient machine learning: using lower-quality data from more sources to generate broader, actionable insight at similar or lower cost.
+Recent milestones include:
+•	advancing a new class of AI-enabled diagnostic systems that can “listen” to machines and detect early signs of failure before breakdown occurs
+•	developing an AI Mechanic proof of concept that distinguishes normal from abnormal machine behavior using short audio recordings
+•	demonstrating this approach across multiple equipment types, including generators, CNC machines, and compressors
+•	showing that these methods can work with low-cost sensing hardware, including smartphones and embedded platforms, creating a practical path toward scalable predictive maintenance
+•	maturing the work from isolated models into a more complete end-to-end pipeline connecting data collection, AI-based analysis, and real-time alerts or feedback
+•	advancing research in audio AI and perceptual sound quality prediction, including methods that incorporate uncertainty estimation and modern self-supervised audio representations
+Key concepts developed in this line of work include:
+•	Pareto data: doing more with less data by using suboptimal but widely available sensors to gain broader visibility rather than relying only on ultra-high-fidelity sensing for narrow, expert-level diagnosis
+•	shifting from expensive, specialized sensors to lower-cost sensing platforms such as smartphones and Arduino-class microcontrollers
+•	smarter methods for signal characterization and normalization across devices
+•	new ways to “multiply data,” allowing the lab to capture low-frequency events once and learn from them as though they occur more frequently
+•	few-shot and one-shot learning through device-to-device translation
+•	device-to-device signal translation, physics-informed signal augmentation, and normalization of signals into a shared representational space
+•	methods to improve trust in acoustic characterization models by verifying input audio quality and authenticity through automated mean opinion scoring
+
+Breakthrough series 2: smarter, defensive self-driving
+A second major focus is smarter, safer self-driving systems, including autonomy under challenging and high-speed operating conditions.
+Recent work includes:
+•	developing more data-efficient and resilient approaches to self-driving in difficult scenarios
+•	building a robust taxonomy of adversarial events in self-driving
+•	developing self-crashing vehicle platforms to help train defensive driving systems safely and systematically
+•	creating software to support operation of an autonomous IndyCar
+•	exploring game-based learning approaches for how AI systems should interact safely with humans and reflect human morals and ethics, including simulation environments for trolley-problem-like decisions and pedestrian interaction
+•	expanding work at the intersection of autonomous systems and audio sensing, identifying an important gap in current vehicle perception stacks: while cameras, radar, and LiDAR are standard, audio remains underused despite carrying important safety-relevant information
+These efforts represent a broader research trajectory in AI for physical systems: methods that are technically rigorous, low-cost to deploy, and relevant to real industrial and mobility settings.
+
+Publications and intellectual property
+Accepted or published work includes:
+•	Ahmed, T. and Siegel, J. “Pareto Data Framework: Steps Towards Resource-Efficient Decision Making Using Minimum Viable Data (MVD).” arXiv preprint arXiv:2409.12112, 2024
+•	Elelu, K. A., Siegel, J. E., Saffary, A., Simeon, B., Okpala, E., et al. “Convm2d2: Improving Generative Music Evaluation Using a Self-Supervised Alternative to CLAP.” TTIC Summer Workshop on Foundations of Speech and Audio Foundation Models, 2025
+•	Siegel, J. and Ahmed, T. “System and Method for Operating a Device with a Reduced Data Set.” U.S. Patent Application 19/358,686, filed February 5, 2026
+•	Saffary, M., Inampudi, N., & Siegel, J. E. (2024). Developing a taxonomy of elements adversarial to autonomous vehicles. arXiv:2403.00136. https://doi.org/10.48550/arXiv.2403.00136
+Additional work remains under review, including multiple technology disclosures and applications for patent. 
+
+Commercialization progress
+The lab’s research is intentionally developed with translation in mind. In addition to technical progress, the lab has been conducting business-model development, stakeholder interviews, customer discovery, and commercialization planning to help move promising technologies toward real-world use.
+ 
+2) Student impact: how these funds support graduate and undergraduate researchers
+The gift supports a lab model in which students work on problems that are both research-intensive and commercially meaningful. The DeepTech Lab currently includes 1 postdoctoral researcher, 4 Ph.D. students, and 4 undergraduate researchers, and is growing this summer to support an additional 4 part-time M.S. and Ph.D. students.
+Students in the lab are trained not only in AI methods, but also in how to apply those methods to real machines, real sensors, and real operational constraints. They receive both technical and commercial training, including NSF I-Corps training and engagement with the local and regional entrepreneurial community.
+This environment helps students learn how to:
+•	build and validate systems on physical platforms
+•	work across sensing, data, models, and deployment
+•	connect technical ideas to user needs and industry problems
+•	think about commercialization and translational impact early in the research process
+Undergraduate researchers gain exposure to advanced, real-world engineering challenges early in their education. Graduate researchers gain experience at the boundary of research, prototyping, entrepreneurship, and deployment.
+The lab also contributes to a broader talent pipeline by connecting advanced research with student team development, regional innovation, and engagement with local K–12 and undergraduate institutions, reaching dozens of students each year and inspiring participation in research and entrepreneurial activities. See, for example:
+•	Chung, C. J., Siegel, J. E., & Wilson, M. (2024). Undergraduate research experiences for automated and connected vehicle algorithm development using real vehicles. In 2024 ASEE North Central Section Conference. 
+•	Siegel, J., Morris, D., Bopardikar, S. D., Dahal, P., & Herzer, J. (2026). Integrating the Indy Autonomous Challenge into scalable coursework, research, and outreach at a land-grant public university. In ASEE North Central Section Conference
+•	Siegel, J., Reynolds, K., Miller, G. C., Sinclair, K., & Dahal, P. (2026). Leading educational transformation: How one secondary school pioneered university research integration to inspire STEM exploration. In ASEE North Central Section Conference
+ 
+3) What these funds help us access
+These funds help the lab gain access to the tools, equipment, and prototyping capacity needed to move from concept to robust implementation. This is especially important because much of the lab’s work is exploratory and does not fit neatly into conventional funding categories for fundamental research. Flexible support has made it possible to acquire critical items that are otherwise difficult or impossible to obtain through more traditional funding mechanisms. In practical terms, the gift supports access to:
+•	sensing and embedded hardware
+•	prototype development platforms
+•	real-world data collection
+•	edge AI experimentation
+•	system integration and testing on physical robotic platforms
+
+This support creates the infrastructure needed to evaluate AI systems in environments relevant to:
+•	advanced manufacturing
+•	automotive systems
+•	robotics
+•	intelligent monitoring and maintenance
+
+Specific platforms and tools supported, or planned for support, include:
+•	small-scale manufacturing equipment at 1/10 scale
+•	small-scale self-driving platforms
+•	instrumentation for manufacturing equipment used in acoustic diagnostics
+•	development work supporting commercialization of acoustic diagnostic systems for vehicles and manufacturing
+•	new hands-on AI training modules that blend the physical and digital world
+•	K–12 and local primarily undergraduate university support for autonomous vehicle education
+•	support for student teams developing autonomous vehicles, including test platforms and travel to events
+•	support for MSU CSE and ECE capstone student projects related to refining and commercializing signal processing and self-driving research, as well as developing education outreach programming
+
+Planned uses of the funds include:
+•	building a street-ready electric test vehicle for autonomy and diagnostic development using golf-cart-type platforms
+•	supporting travel to conferences to share the lab’s work
+•	continuing development of a commercial acoustic diagnostic solution
+•	developing a small-scale robotically enhanced production line
+ 
+4) The “so what”: real-world applications and commercialization pathways
+The lab’s work is aimed at developing deep technologies into commercial-ready solutions. The near-term development horizon is building AI that makes physical systems safer, smarter, and more reliable.
+
+Key application areas include:
+•	smarter, safer self-driving, including autonomy near the limit of performance in grip, speed, and dynamic response
+•	acoustic diagnostics for transportation and manufacturing
+•	practical AI systems that move toward market readiness through customer discovery, stakeholder engagement, and iterative refinement
+
+In machine diagnostics, this work creates pathways toward:
+•	predictive maintenance tools
+•	fleet and equipment health monitoring
+•	lower-cost service diagnostics
+•	reduced downtime for industrial and commercial systems
+
+In mobility and autonomy, it creates pathways toward:
+•	richer multimodal perception systems
+•	improved hazard awareness
+•	audio-enabled safety monitoring for robots and vehicles
+•	sensing systems that complement existing camera- and LiDAR-based stacks
+
+A major commercialization strength is that the lab’s methods are designed around cost-effective sensing and deployable hardware rather than expensive, specialized systems. That makes them more realistic for adoption in sectors such as:
+•	automotive
+•	manufacturing
+•	construction equipment
+•	robotics
+•	infrastructure monitoring
+
+The broader opportunity lies not only in individual algorithms, but in integrated platforms that combine sensing, AI inference, and actionable feedback for end users.
+
+In parallel, the lab PI is working with faculty at top business schools (HBS, Sloan, INSEAD) to develop new frameworks and approaches for cultivating innovation and entrepreneurship and for bringing emerging technologies to market thoughtfully, safely, and sustainably.
+
+ 
+5) Future vision: what the next 12–24 months look like for the DeepTech Lab
+
+The DeepTech Lab aims to deepen its position as a center for AI applied to real machines and mobility systems. The near-term goal is to advance from promising prototypes toward field-tested, deployment-ready systems.
+
+Key priorities include:
+•	expanding audio-based machine diagnostics to more equipment classes and operating conditions
+•	developing lightweight models that can run on embedded and edge devices
+•	improving anomaly detection in cases where only normal operating data is available
+•	building stronger sensing and characterization models for autonomous and robotic systems
+•	creating integrated prototypes robust enough for real-world pilots
+
+At the lab level, growth in student researchers will increase capacity not only for publications, but also for system building, testing, and translational development.
+
+The larger vision is to build a portfolio of technologies that can lead to:
+•	stronger industry partnerships
+•	invention disclosures and IP development
+•	startup and venture opportunities
+•	practical tools that create measurable value outside the university
+
+The DeepTech Lab’s long-term aim is to be a place where students and researchers do not stop at publishing ideas, but push them toward usable deep-tech innovations with societal and commercial relevance. The lab aims to deploy technology safely, thoughtfully, and in a scalable and sustainable way.
+
+Over the next 12–24 months, the lab plans to:
+•	continue commercialization efforts by gathering more data from its small-scale factory and partnering with real users
+•	launch a company to bring its AI technology to market, initially targeting mid-scale manufacturing facilities
+•	gather data from real vehicles and real manufacturing systems
+•	build a test platform for autonomy
+•	build a small-scale autonomy platform capable of 100+ mph operation
+•	test algorithms for high-performance assured autonomy on a golf-cart-like platform
+
